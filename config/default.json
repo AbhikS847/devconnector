@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://abhik:Fuckmongo847@devconnector.kggml.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI":"mongodb+srv://abhik:Fuckmongo847@devconnector.kggml.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
 }
